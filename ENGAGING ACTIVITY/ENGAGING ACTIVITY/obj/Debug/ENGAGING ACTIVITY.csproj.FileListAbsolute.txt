@@ -1,0 +1,6 @@
+C:\Users\Nicka\Documents\SharpDevelop Projects\ENGAGING ACTIVITY\ENGAGING ACTIVITY\bin\Debug\ENGAGING ACTIVITY.exe.config
+C:\Users\Nicka\Documents\SharpDevelop Projects\ENGAGING ACTIVITY\ENGAGING ACTIVITY\bin\Debug\ENGAGING ACTIVITY.exe
+C:\Users\Nicka\Documents\SharpDevelop Projects\ENGAGING ACTIVITY\ENGAGING ACTIVITY\bin\Debug\ENGAGING ACTIVITY.pdb
+C:\Users\Nicka\Documents\SharpDevelop Projects\ENGAGING ACTIVITY\ENGAGING ACTIVITY\obj\Debug\ENGAGING ACTIVITY.csprojResolveAssemblyReference.cache
+C:\Users\Nicka\Documents\SharpDevelop Projects\ENGAGING ACTIVITY\ENGAGING ACTIVITY\obj\Debug\ENGAGING ACTIVITY.exe
+C:\Users\Nicka\Documents\SharpDevelop Projects\ENGAGING ACTIVITY\ENGAGING ACTIVITY\obj\Debug\ENGAGING ACTIVITY.pdb
