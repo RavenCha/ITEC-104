@@ -1,0 +1,6 @@
+C:\Users\Nicka\Documents\SharpDevelop Projects\ITEC104_ACTIVITY6_CRUZ\ITEC104_ACTIVITY6_CRUZ\obj\Debug\ITEC104_ACTIVITY6_CRUZ.csprojResolveAssemblyReference.cache
+C:\Users\Nicka\Documents\SharpDevelop Projects\ITEC104_ACTIVITY6_CRUZ\ITEC104_ACTIVITY6_CRUZ\bin\Debug\ITEC104_ACTIVITY6_CRUZ.exe.config
+C:\Users\Nicka\Documents\SharpDevelop Projects\ITEC104_ACTIVITY6_CRUZ\ITEC104_ACTIVITY6_CRUZ\bin\Debug\ITEC104_ACTIVITY6_CRUZ.exe
+C:\Users\Nicka\Documents\SharpDevelop Projects\ITEC104_ACTIVITY6_CRUZ\ITEC104_ACTIVITY6_CRUZ\bin\Debug\ITEC104_ACTIVITY6_CRUZ.pdb
+C:\Users\Nicka\Documents\SharpDevelop Projects\ITEC104_ACTIVITY6_CRUZ\ITEC104_ACTIVITY6_CRUZ\obj\Debug\ITEC104_ACTIVITY6_CRUZ.exe
+C:\Users\Nicka\Documents\SharpDevelop Projects\ITEC104_ACTIVITY6_CRUZ\ITEC104_ACTIVITY6_CRUZ\obj\Debug\ITEC104_ACTIVITY6_CRUZ.pdb
