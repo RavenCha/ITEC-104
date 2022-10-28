@@ -1,4 +1,4 @@
-﻿/*
+ /*
  * Created by SharpDevelop.
  * User: Raven
  * Date: 10/27/2022
@@ -26,7 +26,7 @@ namespace ITEC104_ACTIVITY5_CRUZ
         }                  
         public static List<int> test(List<int> nums)
           {
-             return nums.Where(n => n % 10 < 5).ToList();
+             return nums.Where(n => n % 10 != 5).ToList();
           }    
     }
 }
